@@ -5,6 +5,8 @@
 		// byte range is -128 to 127 an 1 byte is equal to 8 bit
 		byte b = 111;
 
+		
+
 		// Short range is -32768 to -32767
 		short s = 23;
 		
