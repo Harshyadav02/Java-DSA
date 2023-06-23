@@ -4,5 +4,7 @@ class _02_Sum_of_a_and_b{
 		int b = 20;
 
 		System.out.println(a+b);
+
+		
 	}
 }
