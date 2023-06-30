@@ -37,7 +37,7 @@ class _04_Input_in_Java{
 		System.out.println(s);
 		System.out.println(sl);
 		
-
+		sc.close();
 
 	}
 }
