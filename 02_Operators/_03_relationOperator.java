@@ -13,15 +13,15 @@ class _03_relationOperator{
 			<= (Less Then and Equal to)    return true/false
 		*/
 
-		int x = 10;
-		int y = 20;
+		int value1 = 10;
+		int value2 = 20;
 
-		System.out.println("Using == operator : "+ (x == y));
-		System.out.println("Using != operator : "+ (x != y));
-		System.out.println("Using > operator : "+  (x >  y));
-		System.out.println("Using < operator : "+  (x <  y));
-		System.out.println("Using >= operator : "+ (x >= y));
-		System.out.println("Using =< operator : "+ (x <= y));
+		System.out.println("Using == operator : "+ (value1 == value2));
+		System.out.println("Using != operator : "+ (value1 != value2));
+		System.out.println("Using > operator : "+  (value1 >  value2));
+		System.out.println("Using < operator : "+  (value1 <  value2));
+		System.out.println("Using >= operator : "+ (value1 >= value2));
+		System.out.println("Using =< operator : "+ (value1 <= value2));
 
 	}
 }
