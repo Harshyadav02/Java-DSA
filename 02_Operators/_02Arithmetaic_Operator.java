@@ -5,16 +5,16 @@ class _02Arithmetaic_Operator{
 
 			//  + operator
 
-			float x = 10;
-			float y = 20;
+			float first_value = 10;
+			float second_value = 20;
 
-			System.out.println(" Using + Operator : "+ (x+y));
-			System.out.println(" Using - Operator : "+ (x-y));
-			System.out.println(" Using * Operator : "+ (x*y));
-			System.out.println(" Using / Operator : "+ (x/y));
+			System.out.println(" Using + Operator : "+ (first_value+second_value));
+			System.out.println(" Using - Operator : "+ (first_value-second_value));
+			System.out.println(" Using * Operator : "+ (first_value*second_value));
+			System.out.println(" Using / Operator : "+ (first_value/second_value));
 
 			// % will provide us reminder
-			System.out.println(" Using % Operator : "+x%y);
+			System.out.println(" Using % Operator : "+first_value%second_value);
 
 
 		// Unary Operator 
@@ -46,33 +46,33 @@ class _02Arithmetaic_Operator{
 			// Increment Operator
 
 			// Pre Increment
-				int a = 2;
-				System.out.println(a); // Output => 2
-				int b = ++a; 
-				System.out.println(b); // Output => 3
+				int value = 2;
+				System.out.println(value); // Output => 2
+				int incremented_value = ++value; 
+				System.out.println(incremented_value); // Output => 3
 
 			// Post Increment
-				int q = 2;
-				System.out.println(q); // Output => 2
-				int r = q++; 
-				System.out.println(r); // Output => 2
-				System.out.println(q); // Output => 3
+				int val = 2;
+				System.out.println(val); // Output => 2
+				int postIncremented_value = val++; 
+				System.out.println(postIncremented_value); // Output => 2
+				System.out.println(val); // Output => 3
 
 
 			// Decrement Operator 
 
 			// Pre Decrement
-				int v = 2;
-				System.out.println(v); // Output => 2
-				int w = --v; 
-				System.out.println(w); // Output => 1
+				int value_3 = 2;
+				System.out.println(value_3); // Output => 2
+				int preDecremented_value = --value_3; 
+				System.out.println(preDecremented_value); // Output => 1
 
 			// Post Decrement
-				int t = 2;
-				System.out.println(t); // Output => 2
-				int s = t--; 
-				System.out.println(s); // Output => 2
-				System.out.println(t); // Output => 1
+				int value_4 = 2;
+				System.out.println(value_4); // Output => 2
+				int postDecremented_value = value_4--; 
+				System.out.println(postDecremented_value); // Output => 2
+				System.out.println(value_4); // Output => 1
 
 
 
