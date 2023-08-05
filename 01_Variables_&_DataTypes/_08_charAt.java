@@ -1,11 +1,11 @@
 import java.util.Scanner;
-class _09_charAt{
+class _08_charAt{
 	public static void main(String[] args) {
 
-		Scanner sc = new Scanner(System.in);
+		Scanner scanner_object = new Scanner(System.in);
 		// chatAt(0) is used to take a single character 
-		char c = sc.next().charAt(0);
+		char char_value = scanner_object.next().charAt(0);
 
-		System.out.println(c);
+		System.out.println(char_value);
 	}
 }
