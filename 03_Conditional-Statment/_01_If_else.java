@@ -10,18 +10,18 @@ class _01_If_else{
 			Note :- we can write multiple if , but there will be only else
 		*/
 
-		int x = 10;
+		int number = 10;
 		
 		// In brackets we write condition
-		if(x > 5){
-			System.out.println("X is greater");
+		if(number > 5){
+			System.out.println("Number is greater");
 		}
 		
-		if (x == 5) {
-			System.out.println("X is eqaul to 5");
+		if (number == 5) {
+			System.out.println("Number is eqaul to 5");
 		}
 		else{
-			System.out.println("X is smaller");
+			System.out.println("Number is smaller");
 		}
 
 		// System.out.println(y);
