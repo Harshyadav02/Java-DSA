@@ -4,6 +4,6 @@ class _09_subString{
 		
 		String str = "Hello World";
 
-		System.out.println(str.substring(0,4));     // hell
+		System.out.println(str.substring(0,4));     //output :-  hell
 	}
 }
