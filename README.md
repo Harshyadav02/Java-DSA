@@ -15,6 +15,7 @@ This repo conatain Data Strucure and Algo with Java Programing language
 - [Basic-Sorting-Algo](https://github.com/Harshyadav02/Java-DSA/tree/main/09_Basic-Sorting-Algo)
 - [2D_Array](https://github.com/Harshyadav02/Java-DSA/tree/main/10_2D_Array)
 - [Strings](https://github.com/Harshyadav02/Java-DSA/tree/main/11_Strings)
+- [Bit Manuplation](https://github.com/Harshyadav02/Java-DSA/tree/main/12_Bit_Manuplation)
 
 ## Variables & DataTypes
 
