@@ -1,4 +1,4 @@
-class _01_whileLoop{
+class _01_while_Loop{
 	public static void main(String[] args) {
 		// While loop
 
