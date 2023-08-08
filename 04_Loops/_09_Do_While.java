@@ -1,4 +1,4 @@
-class _09_D0While{
+class _09_D0_While{
 	public static void main(String[] args) {
 		
 		// Do Wile 
