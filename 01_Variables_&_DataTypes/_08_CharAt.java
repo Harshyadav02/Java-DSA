@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class _08_charAt{
+class _08_CharAt{
 	public static void main(String[] args) {
 
 		Scanner scanner_object = new Scanner(System.in);
