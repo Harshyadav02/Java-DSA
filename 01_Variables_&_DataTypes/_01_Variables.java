@@ -1,6 +1,6 @@
 // Variables in java 
 
- class _01_variables{
+ class _01_Variables{
 	public static void main(String args[]){
 		// byte range is -128 to 127 an 1 byte is equal to 8 bit
 		byte byte_variable = 111;
