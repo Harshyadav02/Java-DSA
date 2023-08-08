@@ -1,4 +1,4 @@
-class _01_If_else{
+class _01_If_Else{
 	public static void main(String args[]){
 
 		// If - Else are used for condition 
