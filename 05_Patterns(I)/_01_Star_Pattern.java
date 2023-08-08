@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class _01_StarPattern{
+class _01_Star_Pattern{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
