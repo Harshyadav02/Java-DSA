@@ -1,4 +1,4 @@
-class _07_SquarePattern{
+class _07_Square_Pattern{
 	public static void main(String[] args) {
 
 		// Printing a Square of * (4*4)
