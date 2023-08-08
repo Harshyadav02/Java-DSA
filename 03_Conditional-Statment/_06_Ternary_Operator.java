@@ -1,4 +1,4 @@
-class _06_TernaryOperator{
+class _06_Ternary_Operator{
 
 	public static void main(String[] args) {
 		// Ternary Operator is used for condition
