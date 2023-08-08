@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class _03_HalfPyramid{
+class _03_Half_Pyramid{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
