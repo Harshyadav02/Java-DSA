@@ -1,4 +1,4 @@
-class _02Arithmetaic_Operator{
+class _02_Arithmetaic_Operator{
 	public static void main(String[] args) {
 		
 		// Binary Operators (+ , - , * ,/,%)
