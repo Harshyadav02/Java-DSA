@@ -1,4 +1,4 @@
-public class _03_Insertion_sort {
+public class _03_Insertion_Sort {
 
 	public static int[] sort(int arr[]){
 
