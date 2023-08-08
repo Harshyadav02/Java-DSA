@@ -1,4 +1,4 @@
-class _03_StringLength{
+class _03_String_Length{
 
 	public static void main(String[] args) {
 		
