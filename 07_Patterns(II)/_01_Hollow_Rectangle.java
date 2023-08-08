@@ -11,7 +11,7 @@ print Hollow Rectangle Tringle
 */
 
 import java.util.Scanner ;
-class _01_HollowRectangle{
+class _01_Hollow_Rectangle{
 
 	public static void pattern(int rows , int cols){
 
