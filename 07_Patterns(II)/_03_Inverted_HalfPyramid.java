@@ -12,7 +12,7 @@ Print Inverted Half Pyramid
 */
 
 import java.util.Scanner ;
-class _03Inverted_HalfPyramid{
+class _03_Inverted_HalfPyramid{
 
 	public static void pattern(int rows){
 
