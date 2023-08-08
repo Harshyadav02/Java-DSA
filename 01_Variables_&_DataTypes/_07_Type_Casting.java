@@ -1,4 +1,4 @@
-class _07Type_Casting{
+class _07_Type_Casting{
 	public static void main(String args[]){
 		float float_value = 99.99f;
 		// converting float value to integer
