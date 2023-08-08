@@ -1,4 +1,4 @@
-class _05Assignment_Operators{
+class _05_Assignment_Operators{
 	public static void main(String[] args) {
 		
 		/* 
