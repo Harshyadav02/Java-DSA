@@ -1,4 +1,4 @@
-class _05_BinomialCoefficient{
+class _05_Binomial_Coefficient{
 
 	public static int BinomialCoefficient(int n , int r ,int nmr){
 		int Coff = n/(r*nmr);
