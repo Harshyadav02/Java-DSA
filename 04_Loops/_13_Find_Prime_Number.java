@@ -1,6 +1,9 @@
+/*
+	Write a program to find prime number
+*/
 import java.util.Scanner;
 
-class _13Prime{
+class _13_Find_Prime_Number{
 	public static void main(String[] args) {
 		
 		// Program to find prime number
