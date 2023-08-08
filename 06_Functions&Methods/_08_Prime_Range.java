@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class _08_PrimeRange{
+class _08_Prime_Range{
 
 	public static boolean prime(int n){
 
