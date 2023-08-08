@@ -1,4 +1,4 @@
-class _02_MethodParameter{
+class _02_Method_Parameter{
 
 	// Method with parameter
 	// here x, y are parameter
