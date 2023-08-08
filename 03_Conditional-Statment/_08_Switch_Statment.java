@@ -1,4 +1,4 @@
-class _08_Switch{
+class _08_Switch_Statment{
 	public static void main(String[] args) {
 		// Switch uesd for multiple condtion same as if else
 
