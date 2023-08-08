@@ -10,7 +10,7 @@ Print Rotated Half Pyramid
 */
 
 import java.util.Scanner ;
-class _02Rotated_HalfPyramid{
+class _02_Rotated_Half_Pyramid{
 
 	public static void pattern(int rows){
 		for(int i = 1; i<=rows ; i++){
