@@ -1,4 +1,4 @@
-class _04_PrintCharacter{
+class _04_Print_Character{
 	public static void main(String[] args) {
 		int n = 4;
 		char ch = 'A';
