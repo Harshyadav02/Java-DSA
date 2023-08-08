@@ -1,6 +1,6 @@
-class _03Product{
+class _03_Product{
 
-	public static int product(int a ,int b){
+	public static int productOfTwoNumber(int a ,int b){
 
 		return a*b;
 	}
