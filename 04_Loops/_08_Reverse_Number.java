@@ -1,4 +1,4 @@
-class _08_ReverseNumber{
+class _08_Reverse_Number{
 	public static void main(String[] args) {
 		int x = 233;
 
