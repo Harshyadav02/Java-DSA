@@ -1,4 +1,4 @@
-class _06_ForLoop{
+class _06_For_Loop{
 	public static void main(String[] args) {
 		// For Loop
 
