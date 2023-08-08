@@ -1,4 +1,4 @@
-class _03_relationOperator{
+class _03_Relation_Operator{
 	public static void main(String[] args) {
 		
 		// Relation Operators
