@@ -1,4 +1,4 @@
-class _01_StringCreation{
+class _01_String_Creation{
 
 	public static void main(String[] args) {
 		
