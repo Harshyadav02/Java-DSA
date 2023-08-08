@@ -1,5 +1,6 @@
+/*	Calculate the income tax on the basis of your income */
 import java.util.Scanner;
-class _04_Income_tax{
+class _04_Income_Tax{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
