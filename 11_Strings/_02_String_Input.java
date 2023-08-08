@@ -1,5 +1,5 @@
 import java.util.Scanner ;
-class _02_StringInput{
+class _02_String_Input{
 
 
 	public static void main(String[] args) {
