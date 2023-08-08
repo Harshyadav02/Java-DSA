@@ -1,4 +1,4 @@
-class _06Type_Conversion{
+class _06_Type_Conversion{
 	public static void main(String args[]){
 		// Implacit type conversion
 		int first_value= 10;
