@@ -16,6 +16,7 @@ This repo conatain Data Strucure and Algo with Java Programing language
 - [2D_Array](https://github.com/Harshyadav02/Java-DSA/tree/main/10_2D_Array)
 - [Strings](https://github.com/Harshyadav02/Java-DSA/tree/main/11_Strings)
 - [Bit Manuplation](https://github.com/Harshyadav02/Java-DSA/tree/main/12_Bit_Manuplation)
+- [OOPS](https://github.com/Harshyadav02/Java-DSA/tree/main/13_Oops)
 
 ## Variables & DataTypes
 
@@ -42,6 +43,12 @@ This section covers 2D Array Concept , **how 2D Works, Creation of 2D Array, Inp
 
 ## Strings 
 String is an vauable concept , here **String Creation, Length(), String Concatention ,CharAt(), subString() , and StringBulider** such type of topic are covered.
+
+## Bit Manuplation
+In this topic we will talk about **BIT** , and will perform some operations like **Binary AND , Binary OR , Binary XOR, LEFTSHIFT , RIGHTSHIFT** . Some basic question are also solved for more understanding.
+
+## OOPS
+Here somes an important topic **OOPS** . Here we learn important topics like **CLASS, OBJECTS, CONSTRUCTOR, MODIFIRES, INTERFACE, ENCAPSULATION, INHERTANCE, TYPES OF INHERTANCE, ABSTRACTION, INNER CLASS, EXCEPTION HANDLING, ACCESS MODIFIERS** and many more. 
 ## Prerequisite 
 
 To run the Programs you intall Java Development kit(JDK) , you can download JDK as per your system type ( [Windows](https://download.oracle.com/java/20/latest/jdk-20_windows-x64_bin.exe (sha256)) , [Linux](https://download.oracle.com/java/20/latest/jdk-20_linux-x64_bin.deb (sha256)) , [Mac](https://download.oracle.com/java/20/latest/jdk-20_macos-aarch64_bin.dmg (sha256))).
