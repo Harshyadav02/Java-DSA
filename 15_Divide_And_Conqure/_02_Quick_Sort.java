@@ -30,6 +30,8 @@ class _02_Quick_Sort{
 		sort(arr , pidx +1 , endingIndex);
 
 	}
+	
+	// Function for merge the elements
 
 	public static int partation(int arr[] , int startingIndex , int endingIndex){
 
