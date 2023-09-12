@@ -16,7 +16,8 @@ This repo conatain Data Strucure and Algo with Java Programing language
 - [Strings](https://github.com/Harshyadav02/Java-DSA/tree/main/11_Strings)
 - [Bit Manuplation](https://github.com/Harshyadav02/Java-DSA/tree/main/12_Bit_Manuplation)
 - [OOPS](https://github.com/Harshyadav02/Java-DSA/tree/main/13_Oops)
-
+- [Recursion](https://github.com/Harshyadav02/Java-DSA/tree/main/14_Recursion)
+  
 ## Variables & DataTypes
 
 This section talks about the variables , how to **Create Variables , Data Types in java, Type Casting ,Type Conversion**.
