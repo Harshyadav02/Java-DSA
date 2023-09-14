@@ -17,6 +17,7 @@ This repo conatain Data Strucure and Algo with Java Programing language
 - [Bit Manuplation](https://github.com/Harshyadav02/Java-DSA/tree/main/12_Bit_Manuplation)
 - [OOPS](https://github.com/Harshyadav02/Java-DSA/tree/main/13_Oops)
 - [Recursion](https://github.com/Harshyadav02/Java-DSA/tree/main/14_Recursion)
+- [Divide and Conquer](https://github.com/Harshyadav02/Java-DSA/tree/main/15_Divide_And_Conqure)
   
 ## Variables & DataTypes
 
