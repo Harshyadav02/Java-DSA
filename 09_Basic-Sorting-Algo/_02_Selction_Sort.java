@@ -1,37 +1,34 @@
-/* The basic idea of selction sort is to bring the smallest element at first and reduce the unnessacery swaps*/
+class SelectionSort {
 
-class _02_Selction_sort{
+    public static int[] sort(int arr[]) {
+        int n = arr.length;
 
-	public static int[] sort(int arr[]){
+        for (int i = 0; i < n - 1; i++) {
+            int minimum = i;
 
-		for(int i = 0; i<arr.length-1; i++){
+            for (int j = i + 1; j < n; j++) {
+                if (arr[j] < arr[minimum]) {
+                    minimum = j;
+                }
+            }
 
-				int minimum = i ;
-				
+            int temp = arr[i];
+            arr[i] = arr[minimum];
+            arr[minimum] = temp;
+        }
 
-				for(int j = 1; j<=arr.length-1; j++){
+        return arr;
+    }
 
-						if(arr[minimum]  > arr[j]){
+    public static void main(String[] args) {
+        int arr[] = {5, 4, 3, 2, 1};
 
-							minimum = j;
-						}
-				}
+        // Sort the array
+        sort(arr);
 
-			int temp = arr[i];
-			arr[i] = arr[minimum];
-			arr[minimum] = temp;
-
-
-		}
-
-		return arr;
-	}
-
-	public static void main(String[] args) {
-		int arr[] = {5,4,3,2,1};
-
-		for(int x : arr){
-			System.out.print(x + " ");
-		}
-	}
+        // Print the sorted array
+        for (int x : arr) {
+            System.out.print(x + " ");
+        }
+    }
 }
