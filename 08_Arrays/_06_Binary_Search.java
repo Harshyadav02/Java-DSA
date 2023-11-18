@@ -10,6 +10,7 @@ class _06_Binary_Search{
 
 		 	if(key == arr[mid]){
 		 		return mid;
+				
 		 	}
 		 	
 		 	//  Right part
