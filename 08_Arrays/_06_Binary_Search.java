@@ -13,7 +13,7 @@ class _06_Binary_Search{
 				
 		 	}
 		 	
-		 	//  Right part
+			//  Right part
 		 	else if(key > arr[mid]){
 		 		start = mid+1;
 		 	}
