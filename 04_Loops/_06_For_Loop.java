@@ -20,3 +20,4 @@ class _06_For_Loop{
 //Not all the three parameter in for loop are  optinal the condtional area in for loop is by defalut true
 
 // And in the initliazition and updation area we can take any valid sentence
+
