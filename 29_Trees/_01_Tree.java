@@ -7,12 +7,14 @@
 	2) left part will be always created of each node
 	3) if left part child node is null then right part will be created 
 
-	Note ==> null is denoted by -1 
+	Note ==> Here null is denoted by -1 
 
 */
 
 // class to create Node for tree
 
+import java.util.Queue;
+import java.util.LinkedList;
 class Node{
 
 	int data;
@@ -98,6 +100,44 @@ public class _01_Tree{
 		System.out.print(root.data+" ");
 	}
 
+	/*The Level Order method is used to print the tree in BFS manner. This uses an queue to perfom actions*/
+	public static void printLevelOrder(Node root){
+
+		if(root==null){
+			return;
+		}
+
+		Queue<Node> queue = new LinkedList<>();
+		queue.add(root);
+		queue.add(null);
+
+		while(!queue.isEmpty()){
+
+			Node currNode = queue.remove();
+			if(currNode == null){
+				System.out.println();
+				if(queue.isEmpty()){
+
+					break;
+				}
+				else{
+					queue.add(null);
+				}
+			}
+			else{
+
+				System.out.print(currNode.data+" ");
+				if(currNode.left != null){
+					queue.add(currNode.left);
+				}
+				if(currNode.right != null){
+					queue.add(currNode.right);
+				}
+			}
+		}
+
+	}
+
 	public static void main(String args[]){
 
 		int nodes[] = {1,2,5,-1,-1,5,-1,-1,3,-1,6,-1,-1};
@@ -117,6 +157,11 @@ public class _01_Tree{
 		System.out.print("Postorder printing of tree --> ");
 	    printPostorder(root);
 	    System.out.println();
+
+
+	    System.out.print("LevelOrder printing of tree --> ");
+	    System.out.println();
+	    printLevelOrder(root);
 
 	}
 }
